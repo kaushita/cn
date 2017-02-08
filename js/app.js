@@ -1,10 +1,10 @@
 // IONIC TEMPLATE APP
 // Modify this data
 
-var wordpressUrl    = 'http://blog.irontec.com'; // URL your wordpress
-var nameApp         = 'Irontec Blog'; // Main title of the application
+var wordpressUrl    = 'http://dekhbe.com'; // URL your wordpress
+var nameApp         = 'DEKHBE'; // Main title of the application
 var descriptionApp  = 'Testing App'; // Subtitle of the application
-var lang            = 'es'; // Language of the aplication: es - eu - en
+var lang            = 'en'; // Language of the aplication: es - eu - en
 
 
 
